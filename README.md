@@ -1,2 +1,0 @@
-# medaille
-preis ppp
